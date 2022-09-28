@@ -6,3 +6,4 @@
 4. Almost done! Run project locally. Use command: `php artisan serve`
 
 Authorization type toke: bearer
+Postman: https://www.getpostman.com/collections/14d6cb2ef674ae5c0dc3
